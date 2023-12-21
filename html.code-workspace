@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "display",
+			"path": "../mygitprojects/display"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
